@@ -116,7 +116,7 @@ top blog styles
   .container{
     width: 100%;
   }
-  .players, .blogs, .courses{
+  .players, .blogs, .coursess{
     
     grid-template-columns: repeat(1,1fr);
 
@@ -132,7 +132,7 @@ top blog styles
     width: 100%;
   }
   
-  .players, .courses{
+  .players, .coursess{
     grid-template-columns: repeat(2,1fr);
   }
   .blogs{
